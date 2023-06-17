@@ -1,5 +1,6 @@
 Push: This command is used to upload your local commits to a remote repository. It transfers your local branch commits to the corresponding branch on the remote repository, allowing others to access your changes.
 
+
 Pull: This command is used to fetch the latest changes from a remote repository and merge them into your current branch. It combines the "fetch" and "merge" operations, allowing you to update your local branch with the latest changes from the remote repository.
 
 Commit: This command is used to save your changes to the local repository. It creates a new commit object with a unique identifier, representing the state of your project at that point in time. Commits are used to track the history of your project and provide a way to revert or review changes.
